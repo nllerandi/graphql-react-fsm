@@ -48,7 +48,6 @@ const resolvers = {
                         return demoQuestion
                     }
                 })
-
             }
         },
         users(parent, args, ctx, info) {
